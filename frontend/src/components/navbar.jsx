@@ -69,7 +69,7 @@ const Navbar = () => {
 
           <div>
             <div style={logoText}>
-              TASKBASE
+              TASKORBIT
             </div>
 
             <div style={logoSubText}>

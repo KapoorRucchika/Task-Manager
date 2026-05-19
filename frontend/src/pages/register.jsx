@@ -236,7 +236,7 @@ const Register = () => {
               }}
             >
               Join thousands of users managing projects, collaborating faster,
-              and creating smarter workflows with TaskBase.
+              and creating smarter workflows with Taskorbit.
             </p>
 
             {/* FLOATING CARDS */}

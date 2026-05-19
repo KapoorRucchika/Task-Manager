@@ -204,7 +204,7 @@ const Login = () => {
                   letterSpacing: "3px",
                 }}
               >
-                TASKBASE
+                TASKORBIT
               </h2>
             </div>
 

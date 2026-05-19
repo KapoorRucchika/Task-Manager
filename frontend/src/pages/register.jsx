@@ -198,7 +198,7 @@ const Register = () => {
                   fontWeight: "300",
                 }}
               >
-                TASKBASE
+                TASKORBIT
               </h2>
             </div>
 

@@ -17,8 +17,7 @@ const app = express();
 
 app.use(cors({
   origin: [
-    "http://localhost:5173",
-    // "https://task-manager-wfw8.onrender.com"
+    "https://task-manager-rra1.onrender.com"
   ],
   credentials: true
 }));
